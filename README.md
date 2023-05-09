@@ -1,4 +1,7 @@
 # Overview
+
+**New for COS 561 project:** We made modifications to `run_kitsune.py` and `Kitsune.py` to save feature information. We added `plot_rmse.py` and `plot_feature.py` to create the plots in our paper. `whisper.ipynb` contains our reimplementation of Whisper — it is currently offline for ease of testing but can be easily modified to be an online system.
+
 In this repository you will find a Python implementation of Kitsune; an online network intrusion detection system, based on an ensemble of autoencoders. From,
 
 *Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18)*
